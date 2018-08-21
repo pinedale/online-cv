@@ -54,7 +54,7 @@ projects:
 
     assignments:
       - title: Tributi
-        link: "tributi.com"
+        link: "http://www.tributi.com"
         tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
         
       - title: Lenspire
