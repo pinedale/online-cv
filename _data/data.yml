@@ -25,19 +25,8 @@ sidebar:
       - idiom: English
         level: Middle
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
 education:
-    - degree: Engeneer in computer Science
+    - degree: Engineer in computer Science
       university: Universidad del Norte, Barranquilla
       time: 2005 - 2010
 
@@ -64,45 +53,30 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Tributi
+        link: "tributi.com"
+        tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
+        
+      - title: Lenspire
+        link: "www.lenspire.com"
+        tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
+        Advertising and Film Industries. Web app built with AngujarJs"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Coinpip
+        link: "coinpip.com"
+        tagline: "A responsive web app to transfer money to any bank account"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Gran Isla
+        link: "www.granisla.com"
+        tagline: "A responsive website"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Agroturismo Sesvistes
+        link: "www.agroturismosesvistes.com"
+        tagline: "A responsive website"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Green Army
+        link: "www.greenarmy.com"
+        tagline: "A responsive WordPress site, build with DIVI"
 
 skills:
     title: Skills &amp; Proficiency
