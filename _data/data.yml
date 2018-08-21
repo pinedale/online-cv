@@ -58,24 +58,24 @@ projects:
         tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
         
       - title: Lenspire
-        link: "www.lenspire.com"
+        link: "https://www.lenspire.com"
         tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
         Advertising and Film Industries. Web app built with AngujarJs"
 
       - title: Coinpip
-        link: "coinpip.com"
+        link: "https://www.coinpip.com"
         tagline: "A responsive web app to transfer money to any bank account"
 
       - title: Gran Isla
-        link: "www.granisla.com"
+        link: "https://www.granisla.com"
         tagline: "A responsive website"
 
       - title: Agroturismo Sesvistes
-        link: "www.agroturismosesvistes.com"
+        link: "https://www.agroturismosesvistes.com"
         tagline: "A responsive website"
 
       - title: Green Army
-        link: "www.greenarmy.com"
+        link: "http://www.greenarmy.com"
         tagline: "A responsive WordPress site, build with DIVI"
 
 skills:
