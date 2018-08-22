@@ -24,6 +24,29 @@ sidebar:
 
       - idiom: English
         level: Middle
+        
+    Methodologies:
+      - idiom: SCRUM
+        level: 
+
+      - idiom: BEM Notation
+        level: 
+        
+    Tools and platforms:
+      - idiom: Git, Github,Gitlab
+        level: 
+
+      - idiom: Heroku
+        level: 
+    Site Generator:
+      - idiom: Middleman
+        level: 
+
+      - idiom: Grunt
+        level: 
+        
+      - idiom: Gulp
+        level: 
 
 education:
     - degree: Engineer in computer Science
@@ -35,12 +58,12 @@ experiences:
       time: Dec 2015 - Present
       company: Barista Ventures
       details: |
-        Build websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
+        Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
         Turn Sketch desings into pixel perfect, mobile responsive website/web pages
 
     - role: Front End Developer
       time: Mar 2011 - Nov 2015
-      company: KOOMBEA
+      company: Koombea
       details: |
         Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
         using agile methodologies like SCRUM.
@@ -76,7 +99,7 @@ projects:
 
       - title: Green Army
         link: "http://www.greenarmy.com"
-        tagline: "A responsive WordPress site, build with DIVI"
+        tagline: "A responsive WordPress site, built with DIVI"
 
 skills:
     title: Skills &amp; Proficiency
