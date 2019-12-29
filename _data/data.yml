@@ -73,6 +73,10 @@ projects:
     intro: >
 
     assignments:
+      - title: MedAnswers
+        link: "https://app.medanswers.com"
+        tagline: "A responsive website and web app to make question about infertility. Web app built with React"
+        
       - title: Tributi
         link: "http://www.tributi.com"
         tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
@@ -81,10 +85,6 @@ projects:
         link: "https://www.lenspire.com"
         tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
         Advertising and Film Industries. Web app built with AngujarJs"
-
-      - title: Coinpip
-        link: "https://www.coinpip.com"
-        tagline: "A responsive web app to transfer money to any bank account"
 
       - title: Gran Isla
         link: "https://www.granisla.com"
