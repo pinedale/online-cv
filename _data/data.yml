@@ -74,7 +74,7 @@ projects:
 
     assignments:
       - title: MedAnswers
-        link: "https://app.medanswers.com"
+        link: "https://www.medanswers.com/"
         tagline: "A responsive website and web app to make question about infertility. Web app built with React"
         
       - title: Tributi
