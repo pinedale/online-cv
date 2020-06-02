@@ -102,9 +102,6 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Bootstrap
-        level: 99%
-
       - name: Javascript & jQuery
         level: 85%
 
@@ -114,20 +111,25 @@ skills:
       - name: HTML5 & CSS3
         level: 99%
 
-      - name: React
-        level: 65%
+      - name: React Js, Formik
+        level: 75%
         
-      - name: JekyII
+      - name: Redux
+        level: 60%
+        
+      - name: Ruby Front End part (helpers)
         level: 80%
-      - name: Sketch & Adobe XD
+        
+      - name: Sketch , Adobe XD, Figma
         level: 90%
+        
       - name: Invision & zeplin
         level: 90%
         
       - name: Responsive Web Design
         level: 99%
         
-      - name: Materializecss, Foundation
+      - name: Materializecss, Foundation, Bootstrap
         level: 90%
       
 
