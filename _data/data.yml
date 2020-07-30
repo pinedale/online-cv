@@ -73,6 +73,10 @@ projects:
     intro: >
 
     assignments:
+      - title: EncShip Admin Role
+        link: "https://admin.encship.com/"
+        tagline: "Web app built with React Js, Redux and Formik"
+        
       - title: MedAnswers
         link: "https://www.medanswers.com/"
         tagline: "A responsive website and web app to make question about infertility. Web app built with React"
@@ -104,18 +108,21 @@ skills:
     toolset:
       - name: Javascript & jQuery
         level: 85%
+        
+      - name: React Js, Formik
+        level: 75%
+        
+      - name: Redux
+        level: 60%
 
       - name: Angular
         level: 85%
 
       - name: HTML5 & CSS3
         level: 99%
-
-      - name: React Js, Formik
-        level: 75%
         
-      - name: Redux
-        level: 60%
+      - name: Materializecss, Foundation, Bootstrap
+        level: 90%
         
       - name: Ruby Front End part (helpers)
         level: 80%
@@ -129,8 +136,6 @@ skills:
       - name: Responsive Web Design
         level: 99%
         
-      - name: Materializecss, Foundation, Bootstrap
-        level: 90%
       
 
 footer: >
