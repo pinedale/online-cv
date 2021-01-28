@@ -59,14 +59,14 @@ experiences:
       company: Soluntech
       details: |
         Built websites and web apps using React Js, Redus, Formik, CSSS, HTML, Javascript, Bootstrap.
-        Turn Sketch desings into pixel perfect, mobile responsive website/web pages
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
         
     - role: Front End Developer
       time: Dec 2015 - Sep 2019
       company: Barista Ventures
       details: |
         Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
-        Turn Sketch desings into pixel perfect, mobile responsive website/web pages
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
 
     - role: Front End Developer
       time: Mar 2011 - Nov 2015
@@ -123,7 +123,7 @@ skills:
         level: 60%
 
       - name: Angular
-        level: 85%
+        level: 80%
 
       - name: HTML5 & CSS3
         level: 99%
@@ -134,10 +134,10 @@ skills:
       - name: Ruby Front End part (helpers)
         level: 80%
         
-      - name: Sketch , Adobe XD, Figma
+      - name: Sketch, Adobe XD, Figma
         level: 90%
         
-      - name: Invision & zeplin
+      - name: Invision & Zeplin
         level: 90%
         
       - name: Responsive Web Design
