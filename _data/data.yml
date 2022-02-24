@@ -55,7 +55,14 @@ education:
 
 experiences:
     - role: Front End Developer 
-      time: Sep 2019 - Present
+      time: Sep 2020 - Present
+      company: Lean Tech
+      details: |
+        Built websites and web apps using React Js, Tailwind, React Router, CSSS, HTML, Javascript.
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
+    
+    - role: Front End Developer 
+      time: Sep 2019 - Sep 2020
       company: Soluntech
       details: |
         Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
@@ -121,9 +128,9 @@ skills:
         
       - name: Redux
         level: 60%
-
-      - name: Angular
-        level: 80%
+        
+      - name: TailwindCSS
+        level: 90%
 
       - name: HTML5 & CSS3
         level: 99%
@@ -146,4 +153,4 @@ skills:
       
 
 footer: >
-    Copyright © 2020
+    Copyright © 2022
