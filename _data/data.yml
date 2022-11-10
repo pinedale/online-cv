@@ -87,9 +87,9 @@ projects:
     intro: >
 
     assignments:
-      - title: EncShip Admin Role
-        link: "https://admin.encship.com/"
-        tagline: "Web app built with React Js, Redux and Formik"
+      - title: Project44
+        link: "https://www.project44.com"
+        tagline: "Web app built with React Js, ReactQuery, react-hook-form and Material UI"
         
       - title: MedAnswers
         link: "https://www.medanswers.com/"
@@ -123,10 +123,10 @@ skills:
       - name: Javascript & jQuery
         level: 85%
         
-      - name: React Js, Formik
+      - name: React Js
         level: 75%
         
-      - name: Redux
+      - name: React Query
         level: 60%
         
       - name: TailwindCSS
