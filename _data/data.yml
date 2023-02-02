@@ -55,21 +55,21 @@ education:
       time: 2005 - 2010
 
 experiences:
-    - role: Front End Developer 
+    - role: Front End Developer (Remotely)
       time: Sep 2020 - Present
       company: Lean Tech
       details: |
         Built websites and web apps using React Js, Tailwind, React Router, CSSS, HTML, Javascript.
         Turn Sketch designs into pixel perfect, mobile responsive website/web pages
     
-    - role: Front End Developer 
+    - role: Front End Developer (Remotely)
       time: Sep 2019 - Sep 2020
       company: Soluntech
       details: |
         Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
         Turn Sketch designs into pixel perfect, mobile responsive website/web pages
         
-    - role: Front End Developer
+    - role: Front End Developer (Remotely)
       time: Dec 2015 - Sep 2019
       company: Barista Ventures
       details: |
