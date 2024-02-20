@@ -55,8 +55,15 @@ education:
       time: 2005 - 2010
 
 experiences:
+    - role: Front End Reactjs Developer (Remotely)
+      time: Jan 2023 - Present
+      company: 4Site Technologies
+      details: |
+        I integrated a backend into a web application using ReactJS, TypeScript, React Query, React Router, and Tailwind CSS.
+        I built the frontend from scratch and was responsible for integrating it with the provided backend, as well as for its ongoing maintenance and updates.
+        
     - role: Front End Developer (Remotely)
-      time: Sep 2020 - Present
+      time: Sep 2020 - Nov 2022
       company: Lean Tech
       details: |
         Built websites and web apps using React Js, Tailwind, React Router, CSSS, HTML, Javascript.
@@ -122,36 +129,28 @@ skills:
 
     toolset:
       - name: Javascript & jQuery
-        level: 85%
         
       - name: React Js
-        level: 75%
         
       - name: React Query
-        level: 60%
+        
+      - name: TypeScript
         
       - name: TailwindCSS
-        level: 90%
 
       - name: HTML5 & CSS3
-        level: 99%
         
       - name: Materializecss, Foundation, Bootstrap
-        level: 90%
         
       - name: Ruby Front End part (helpers)
-        level: 80%
         
       - name: Sketch, Adobe XD, Figma
-        level: 90%
         
       - name: Invision & Zeplin
-        level: 90%
         
       - name: Responsive Web Design
-        level: 99%
         
       
 
 footer: >
-    Copyright © 2023
+    Copyright © 2024
