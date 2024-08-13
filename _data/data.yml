@@ -21,10 +21,10 @@ sidebar:
 
     languages:
       - idiom: Spanish
-        level: Native
+        level:
 
       - idiom: English
-        level: Middle
+        level: 
         
     Methodologies:
       - idiom: SCRUM
@@ -56,8 +56,8 @@ education:
 
 experiences:
     - role: Front End Reactjs Developer (Remotely)
-      time: Jan 2023 - Present
-      company: 4Site Technologies
+      time: Jan 2023 - July 2024
+      company: UNA Health - 4Site Technologies
       details: |
         I integrated a backend into a web application using ReactJS, TypeScript, React Query, React Router, and Tailwind CSS.
         I built the frontend from scratch and was responsible for integrating it with the provided backend, as well as for its ongoing maintenance and updates.
