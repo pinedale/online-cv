@@ -57,7 +57,7 @@ experiences:
       time: Jan 2023 - July 2024
       company: UNA Health - 4Site Technologies
       details: |
-        My role in this job was to develop an app from scratch with reactjs, hooks and context API, tailwindcss, react query (TanStack Query) and integration with the backend. 
+        My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
         The application was adapted to different mobile devices and the development was faithful to the design received. 
         In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
         
@@ -65,8 +65,8 @@ experiences:
       time: Sep 2020 - Nov 2022
       company: Lean Tech
       details: |
-        Built websites and web apps using React Js, Tailwind, React Router, CSSS, HTML, Javascript.
-        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
+        I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
+        In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
     
     - role: Front End Developer (Remotely)
       time: Sep 2019 - Sep 2020
