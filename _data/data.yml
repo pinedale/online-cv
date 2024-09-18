@@ -57,8 +57,9 @@ experiences:
       time: Jan 2023 - July 2024
       company: UNA Health - 4Site Technologies
       details: |
-        I integrated a backend into a web application using ReactJS, TypeScript, React Query, React Router, and Tailwind CSS.
-        I built the frontend from scratch and was responsible for integrating it with the provided backend, as well as for its ongoing maintenance and updates.
+        My role in this job was to develop an app from scratch with reactjs, hooks and context API, tailwindcss, react query (TanStack Query) and integration with the backend. 
+        The application was adapted to different mobile devices and the development was faithful to the design received. 
+        In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
         
     - role: Front End Developer (Remotely)
       time: Sep 2020 - Nov 2022
