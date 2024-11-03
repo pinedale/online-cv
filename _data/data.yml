@@ -1,13 +1,17 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
 sidebar:
-    about: False # establece en False o comenta la línea si deseas eliminar la sección "¿cómo usar?" en la barra lateral
-    education: True # establece en False si quieres la educación en la sección principal en lugar de en la barra lateral
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
-    # Información del perfil
+    # Profile information
     name: Leandro Pineda
-    tagline: Desarrollador Front End
-    avatar: profile2020.png  # coloca una imagen de 100x100 en la carpeta /assets/images/ y proporciona el nombre del archivo a continuación
+    tagline: Front End Developer
+    avatar: profile2020.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Enlaces de la barra lateral
+    # Sidebar links
     email: pinedale.05@gmail.com
     phone: (+57)3207565960
     linkedin: leandro-pineda
@@ -16,19 +20,19 @@ sidebar:
     bitbucket:
 
     languages:
-      - idiom: Español
+      - idiom: Spanish
 
-      - idiom: Inglés
+      - idiom: English
         
     Methodologies:
       - idiom: SCRUM
         level: 
 
-      - idiom: Notación BEM
+      - idiom: BEM Notation
         level: 
         
     Tools and platforms:
-      - idiom: Git, Github, Gitlab
+      - idiom: Git, Github,Gitlab
         level: 
 
       - idiom: Heroku
@@ -44,83 +48,83 @@ sidebar:
         level: 
 
 education:
-    - degree: Ingeniero en Ciencias de la Computación
+    - degree: Engineer in computer Science
       university: Universidad del Norte, Barranquilla
       time: 2005 - 2010
 
 experiences:
-    - role: Desarrollador Front End Reactjs (Remoto)
-      time: Ene 2023 - Jul 2024
+    - role: Front End Reactjs Developer (Remotely)
+      time: Jan 2023 - July 2024
       company: UNA Health - 4Site Technologies
       details: |
-        Mi rol en este trabajo fue desarrollar una aplicación desde cero con ReactJS, hooks y context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) e integración con el backend.
-        La aplicación fue adaptada a diferentes dispositivos móviles y el desarrollo fue fiel al diseño recibido. 
-        En otro proyecto, fui líder del equipo de Front End, donde me encargaba de asignar y estimar tareas, proponer nuevas funcionalidades, revisar código, realizar merge de pull requests, así como desarrollar nuevos requisitos.
+        My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
+        The application was adapted to different mobile devices and the development was faithful to the design received. 
+        In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
         
-    - role: Desarrollador Front End (Remoto)
+    - role: Front End Developer (Remotely)
       time: Sep 2020 - Nov 2022
       company: Lean Tech
       details: |
-        Trabajé en múltiples proyectos de Reactjs aplicando Tailwind, React Router, CSS, HTML, Javascript y TypeScript. 
-        En uno de los proyectos, fui líder del equipo de Front End, asignando y estimando tareas, revisando el código y subiendo las PRs a STG.
+        I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
+        In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
     
-    - role: Desarrollador Front End (Remoto)
+    - role: Front End Developer (Remotely)
       time: Sep 2019 - Sep 2020
       company: Soluntech
       details: |
-        Creé sitios web y aplicaciones web utilizando React Js, Redux, Formik, CSS, HTML, Javascript, Bootstrap.
-        Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
+        Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
         
-    - role: Desarrollador Front End (Remoto)
-      time: Dic 2015 - Sep 2019
+    - role: Front End Developer (Remotely)
+      time: Dec 2015 - Sep 2019
       company: Barista Ventures
       details: |
-        Creé sitios web y aplicaciones web utilizando CSS, HTML, Javascript, AngularJs, Bootstrap. 
-        Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
+        Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
 
-    - role: Desarrollador Front End
+    - role: Front End Developer
       time: Mar 2011 - Nov 2015
       company: Koombea
       details: |
-        Creé sitios web y aplicaciones web utilizando CSS, HTML, Jquery, Javascript, AngularJs, Foundation, etc., 
-        usando metodologías ágiles como SCRUM.
+        Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
+        using agile methodologies like SCRUM.
 
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
 
     assignments:
       - title: Project44
         link: "https://www.project44.com"
-        tagline: "Aplicación web construida con React Js, ReactQuery, react-hook-form y Material UI"
+        tagline: "Web app built with React Js, ReactQuery, react-hook-form and Material UI"
         
       - title: MedAnswers
         link: "https://www.medanswers.com/"
-        tagline: "Un sitio web y aplicación web responsiva para realizar preguntas sobre infertilidad. Aplicación web construida con React"
+        tagline: "A responsive website and web app to make question about infertility. Web app built with React"
         
       - title: Tributi
         link: "http://www.tributi.com"
-        tagline: "Un sitio web y aplicación web responsiva para realizar declaraciones de renta en Colombia. Aplicación web construida con React"
+        tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
         
       - title: Lenspire
         link: "https://www.lenspire.com"
-        tagline: "Plataforma colaborativa para profesionales de la producción en las industrias de Impresión, Medios, Moda, 
-        Publicidad y Cine. Aplicación web construida con AngularJs"
+        tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
+        Advertising and Film Industries. Web app built with AngujarJs"
 
       - title: Gran Isla
         link: "https://www.granisla.com"
-        tagline: "Un sitio web responsivo"
+        tagline: "A responsive website"
 
       - title: Agroturismo Sesvistes
         link: "https://www.agroturismosesvistes.com"
-        tagline: "Un sitio web responsivo"
+        tagline: "A responsive website"
 
       - title: Green Army
         link: "http://www.greenarmy.com"
-        tagline: "Un sitio de WordPress responsivo, construido con DIVI"
+        tagline: "A responsive WordPress site, built with DIVI"
 
 skills:
-    title: Habilidades y Competencias
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Javascript & jQuery
@@ -134,8 +138,6 @@ skills:
       - name: TailwindCSS
 
       - name: HTML5 & CSS3
-
-      - name: Github, GitLab, BitBucket, Jira, Trello, Slack
         
       - name: Materializecss, Foundation, Bootstrap
         
@@ -143,9 +145,7 @@ skills:
         
       - name: Sketch, Adobe XD, Figma
         
-      - name: Figma, Sketch, Adobe XD
-
-      - name: Metodologías ágiles, Scrum, Kanban
+      - name: Invision & Zeplin
         
       - name: Responsive Web Design
         
