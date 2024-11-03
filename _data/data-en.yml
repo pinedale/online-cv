@@ -1,0 +1,157 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Leandro Pineda
+    tagline: Front End Developer
+    avatar: profile2020.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: pinedale.05@gmail.com
+    phone: (+57)3207565960
+    linkedin: leandro-pineda
+    github: pinedale
+    gitlab:
+    bitbucket:
+
+    languages:
+      - idiom: Spanish
+
+      - idiom: English
+        
+    Methodologies:
+      - idiom: SCRUM
+        level: 
+
+      - idiom: BEM Notation
+        level: 
+        
+    Tools and platforms:
+      - idiom: Git, Github,Gitlab
+        level: 
+
+      - idiom: Heroku
+        level: 
+    Site Generator:
+      - idiom: Middleman
+        level: 
+
+      - idiom: Grunt
+        level: 
+        
+      - idiom: Gulp
+        level: 
+
+education:
+    - degree: Engineer in computer Science
+      university: Universidad del Norte, Barranquilla
+      time: 2005 - 2010
+
+experiences:
+    - role: Front End Reactjs Developer (Remotely)
+      time: Jan 2023 - July 2024
+      company: UNA Health - 4Site Technologies
+      details: |
+        My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
+        The application was adapted to different mobile devices and the development was faithful to the design received. 
+        In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
+        
+    - role: Front End Developer (Remotely)
+      time: Sep 2020 - Nov 2022
+      company: Lean Tech
+      details: |
+        I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
+        In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
+    
+    - role: Front End Developer (Remotely)
+      time: Sep 2019 - Sep 2020
+      company: Soluntech
+      details: |
+        Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
+        
+    - role: Front End Developer (Remotely)
+      time: Dec 2015 - Sep 2019
+      company: Barista Ventures
+      details: |
+        Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
+        Turn Sketch designs into pixel perfect, mobile responsive website/web pages.
+
+    - role: Front End Developer
+      time: Mar 2011 - Nov 2015
+      company: Koombea
+      details: |
+        Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
+        using agile methodologies like SCRUM.
+
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: Project44
+        link: "https://www.project44.com"
+        tagline: "Web app built with React Js, ReactQuery, react-hook-form and Material UI"
+        
+      - title: MedAnswers
+        link: "https://www.medanswers.com/"
+        tagline: "A responsive website and web app to make question about infertility. Web app built with React"
+        
+      - title: Tributi
+        link: "http://www.tributi.com"
+        tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
+        
+      - title: Lenspire
+        link: "https://www.lenspire.com"
+        tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
+        Advertising and Film Industries. Web app built with AngujarJs"
+
+      - title: Gran Isla
+        link: "https://www.granisla.com"
+        tagline: "A responsive website"
+
+      - title: Agroturismo Sesvistes
+        link: "https://www.agroturismosesvistes.com"
+        tagline: "A responsive website"
+
+      - title: Green Army
+        link: "http://www.greenarmy.com"
+        tagline: "A responsive WordPress site, built with DIVI"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:  
+      - name: React Js
+        
+      - name: React Query
+      
+      - name: Javascript & jQuery
+      
+      - name: TypeScript
+        
+      - name: TailwindCSS
+
+      - name: HTML5 & CSS3
+
+      - name: Github, GitLab, BitBucket, Jira, Trello. Slack
+        
+      - name: Materializecss, Foundation, Bootstrap, Material-UI
+        
+      - name: Ruby Front End part (helpers)
+        
+      - name: Figma, Sketch, Adobe XD
+
+      - name: Agile Methodologies: Scrum Kanban
+        
+      - name: Responsive Web Design
+        
+      
+
+footer: >
+    Copyright © 2024
