@@ -47,43 +47,45 @@ education:
     - degree: Ingeniero en Ciencias de la Computación
       university: Universidad del Norte, Barranquilla
       time: 2005 - 2010
-
 experiences:
-    - role: Desarrollador Front End Reactjs (Remoto)
-      time: Ene 2023 - Jul 2024
-      company: UNA Health - 4Site Technologies
-      details: |
-        Mi rol en este trabajo fue desarrollar una aplicación desde cero con ReactJS, hooks y context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) e integración con el backend.
-        La aplicación fue adaptada a diferentes dispositivos móviles y el desarrollo fue fiel al diseño recibido. 
-        En otro proyecto, fui líder del equipo de Front End, donde me encargaba de asignar y estimar tareas, proponer nuevas funcionalidades, revisar código, realizar merge de pull requests, así como desarrollar nuevos requisitos.
-        
-    - role: Desarrollador Front End (Remoto)
-      time: Sep 2020 - Nov 2022
-      company: Lean Tech
-      details: |
-        Trabajé en múltiples proyectos de Reactjs aplicando Tailwind, React Router, CSS, HTML, Javascript y TypeScript. 
-        En uno de los proyectos, fui líder del equipo de Front End, asignando y estimando tareas, revisando el código y subiendo las PRs a STG.
-    
-    - role: Desarrollador Front End (Remoto)
-      time: Sep 2019 - Sep 2020
-      company: Soluntech
-      details: |
-        Creé sitios web y aplicaciones web utilizando React Js, Redux, Formik, CSS, HTML, Javascript, Bootstrap.
-        Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
-        
-    - role: Desarrollador Front End (Remoto)
-      time: Dic 2015 - Sep 2019
-      company: Barista Ventures
-      details: |
-        Creé sitios web y aplicaciones web utilizando CSS, HTML, Javascript, AngularJs, Bootstrap. 
-        Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
+    title: Experiencia
 
-    - role: Desarrollador Front End
-      time: Mar 2011 - Nov 2015
-      company: Koombea
-      details: |
-        Creé sitios web y aplicaciones web utilizando CSS, HTML, Jquery, Javascript, AngularJs, Foundation, etc., 
-        usando metodologías ágiles como SCRUM.
+    experiences:
+        - role: Desarrollador Front End Reactjs (Remoto)
+          time: Ene 2023 - Jul 2024
+          company: UNA Health - 4Site Technologies
+          details: |
+            Mi rol en este trabajo fue desarrollar una aplicación desde cero con ReactJS, hooks y context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) e integración con el backend.
+            La aplicación fue adaptada a diferentes dispositivos móviles y el desarrollo fue fiel al diseño recibido. 
+            En otro proyecto, fui líder del equipo de Front End, donde me encargaba de asignar y estimar tareas, proponer nuevas funcionalidades, revisar código, realizar merge de pull requests, así como desarrollar nuevos requisitos.
+            
+        - role: Desarrollador Front End (Remoto)
+          time: Sep 2020 - Nov 2022
+          company: Lean Tech
+          details: |
+            Trabajé en múltiples proyectos de Reactjs aplicando Tailwind, React Router, CSS, HTML, Javascript y TypeScript. 
+            En uno de los proyectos, fui líder del equipo de Front End, asignando y estimando tareas, revisando el código y subiendo las PRs a STG.
+        
+        - role: Desarrollador Front End (Remoto)
+          time: Sep 2019 - Sep 2020
+          company: Soluntech
+          details: |
+            Creé sitios web y aplicaciones web utilizando React Js, Redux, Formik, CSS, HTML, Javascript, Bootstrap.
+            Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
+            
+        - role: Desarrollador Front End (Remoto)
+          time: Dic 2015 - Sep 2019
+          company: Barista Ventures
+          details: |
+            Creé sitios web y aplicaciones web utilizando CSS, HTML, Javascript, AngularJs, Bootstrap. 
+            Transformé diseños de Sketch en sitios/páginas web móviles, responsivos y pixel perfect.
+
+        - role: Desarrollador Front End
+          time: Mar 2011 - Nov 2015
+          company: Koombea
+          details: |
+            Creé sitios web y aplicaciones web utilizando CSS, HTML, Jquery, Javascript, AngularJs, Foundation, etc., 
+            usando metodologías ágiles como SCRUM.
 
 projects:
     title: Proyectos
@@ -122,13 +124,13 @@ projects:
 skills:
     title: Habilidades y Competencias
 
-    toolset:  
+    toolset:
+      - name: Javascript & jQuery
+        
       - name: React Js
         
       - name: React Query
-      
-      - name: Javascript & jQuery
-      
+        
       - name: TypeScript
         
       - name: TailwindCSS
@@ -137,16 +139,19 @@ skills:
 
       - name: Github, GitLab, BitBucket, Jira, Trello, Slack
         
-      - name: Materializecss, Foundation, Bootstrap, Material-UI
+      - name: Materializecss, Foundation, Bootstrap
         
-      - name: Parte de Front End en Ruby (helpers)
+      - name: Ruby Front End part (helpers)
+        
+      - name: Sketch, Adobe XD, Figma
         
       - name: Figma, Sketch, Adobe XD
 
-      - name: Metodologías ágiles Scrum Kanban
+      - name: Metodologías ágiles, Scrum, Kanban
         
-      - name: Diseño Web Responsivo
+      - name: Responsive Web Design
         
+      
 
 footer: >
-    Derechos de autor © 2024
+    Copyright © 2024
