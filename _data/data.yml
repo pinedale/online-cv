@@ -122,13 +122,13 @@ projects:
 skills:
     title: Habilidades y Competencias
 
-    toolset:  
+    toolset:
+      - name: Javascript & jQuery
+        
       - name: React Js
         
       - name: React Query
-      
-      - name: Javascript & jQuery
-      
+        
       - name: TypeScript
         
       - name: TailwindCSS
@@ -137,15 +137,17 @@ skills:
 
       - name: Github, GitLab, BitBucket, Jira, Trello, Slack
         
-      - name: Materializecss, Foundation, Bootstrap, Material-UI
+      - name: Materializecss, Foundation, Bootstrap
         
-      - name: Parte de Front End en Ruby (helpers)
+      - name: Ruby Front End part (helpers)
+        
+      - name: Sketch, Adobe XD, Figma
         
       - name: Figma, Sketch, Adobe XD
 
       - name: Metodologías ágiles, Scrum, Kanban
         
-      - name: Diseño Web Responsivo
+      - name: Responsive Web Design
         
       
 
