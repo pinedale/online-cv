@@ -47,10 +47,11 @@ education:
     - degree: Ingeniero en Ciencias de la Computación
       university: Universidad del Norte, Barranquilla
       time: 2005 - 2010
+      
 experiences:
     title: Experiencia
 
-    experiences:
+    items:
         - role: Desarrollador Front End Reactjs (Remoto)
           time: Ene 2023 - Jul 2024
           company: UNA Health - 4Site Technologies

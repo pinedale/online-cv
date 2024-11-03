@@ -53,41 +53,44 @@ education:
       time: 2005 - 2010
 
 experiences:
-    - role: Front End Reactjs Developer (Remotely)
-      time: Jan 2023 - July 2024
-      company: UNA Health - 4Site Technologies
-      details: |
-        My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
-        The application was adapted to different mobile devices and the development was faithful to the design received. 
-        In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
-        
-    - role: Front End Developer (Remotely)
-      time: Sep 2020 - Nov 2022
-      company: Lean Tech
-      details: |
-        I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
-        In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
-    
-    - role: Front End Developer (Remotely)
-      time: Sep 2019 - Sep 2020
-      company: Soluntech
-      details: |
-        Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
-        Turn Sketch designs into pixel perfect, mobile responsive website/web pages
-        
-    - role: Front End Developer (Remotely)
-      time: Dec 2015 - Sep 2019
-      company: Barista Ventures
-      details: |
-        Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
-        Turn Sketch designs into pixel perfect, mobile responsive website/web pages.
+    title: Experiences
 
-    - role: Front End Developer
-      time: Mar 2011 - Nov 2015
-      company: Koombea
-      details: |
-        Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
-        using agile methodologies like SCRUM.
+    experiences:
+        - role: Front End Reactjs Developer (Remotely)
+          time: Jan 2023 - July 2024
+          company: UNA Health - 4Site Technologies
+          details: |
+            My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
+            The application was adapted to different mobile devices and the development was faithful to the design received. 
+            In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
+            
+        - role: Front End Developer (Remotely)
+          time: Sep 2020 - Nov 2022
+          company: Lean Tech
+          details: |
+            I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
+            In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
+        
+        - role: Front End Developer (Remotely)
+          time: Sep 2019 - Sep 2020
+          company: Soluntech
+          details: |
+            Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
+            Turn Sketch designs into pixel perfect, mobile responsive website/web pages
+            
+        - role: Front End Developer (Remotely)
+          time: Dec 2015 - Sep 2019
+          company: Barista Ventures
+          details: |
+            Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
+            Turn Sketch designs into pixel perfect, mobile responsive website/web pages.
+
+        - role: Front End Developer
+          time: Mar 2011 - Nov 2015
+          company: Koombea
+          details: |
+            Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
+            using agile methodologies like SCRUM.
 
 projects:
     title: Projects
