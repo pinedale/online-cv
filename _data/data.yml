@@ -58,9 +58,10 @@ experiences:
           details: |
             Developing scalable and high-performance web applications using React.js, TypeScript and TailwindCSS.
             Building reusable and maintainable UI components following modern Front End architecture principles.
+            Leveraging AI-powered development tools such as GitHub Copilot, Claude Code and OpenAI
+            to improve development speed, code quality, and problem-solving efficiency.
             Collaborating with backend, product and UX teams in an agile (SCRUM) environment.
             Participating in code reviews, technical discussions and continuous improvement initiatives.
-            Ensuring responsive, accessible and cross-browser compatible user interfaces.
 
         - role: Senior Front End Engineer (Vue.js)
           time: Sep 2024 - Oct 2025
@@ -69,6 +70,8 @@ experiences:
             Worked as a Senior Front End Engineer on the Kompas platform using Vue.js 3, Composition API and TypeScript.
             Designed and implemented scalable, component-based architectures.
             Developed responsive and accessible user interfaces using TailwindCSS.
+            Actively used AI-assisted development tools such as GitHub Copilot, Claude Code and OpenAI
+            to accelerate feature development, refactor legacy code and improve overall code quality.
             Led code reviews, contributed to technical decisions, task estimation and mentoring developers.
             Collaborated closely with cross-functional teams following agile methodologies (SCRUM).
 
