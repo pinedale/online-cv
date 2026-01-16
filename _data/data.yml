@@ -55,7 +55,7 @@ education:
 experiences:
     title: Experiences
 
-    experiences:
+    items:
         - role: Senior Front End Developer React.js (Remotely)
           time: Aug 2025 - Present
           company: Telshur
