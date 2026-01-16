@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: True
 
     # Profile information
     name: Leandro Pineda
-    tagline: Front End Developer
-    avatar: profile2020.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Senior Front End Engineer (React & Vue) | Remote Experience
+    avatar: profile2020.png
 
     # Sidebar links
     email: pinedale.05@gmail.com
@@ -21,100 +21,93 @@ sidebar:
 
     languages:
       - idiom: Spanish
-
       - idiom: English
         
     Methodologies:
       - idiom: SCRUM
-        level: 
-
+        level:
       - idiom: BEM Notation
-        level: 
+        level:
         
     Tools and platforms:
-      - idiom: Git, Github,Gitlab
-        level: 
-
+      - idiom: Git, GitHub, GitLab, Bitbucket
+        level:
       - idiom: Heroku
-        level: 
+        level:
+
     Site Generator:
       - idiom: Middleman
-        level: 
-
+        level:
       - idiom: Grunt
-        level: 
-        
+        level:
       - idiom: Gulp
-        level: 
+        level:
 
 education:
-    - degree: Engineer in computer Science
+    - degree: Engineer in Computer Science
       university: Universidad del Norte, Barranquilla
       time: 2005 - 2010
 
 experiences:
-    title: Experiences
+    title: Professional Experience
 
     items:
-        - role: Senior Front End Developer React.js (Remotely)
+        - role: Senior Front End Engineer (React.js)
           time: Aug 2025 - Present
-          company: Telshur
+          company: Telshur | Remote
           details: |
-            Currently working as a Senior Front End Developer building modern and scalable web applications
-            using React.js, TypeScript and TailwindCSS.
-            Responsible for developing reusable UI components, implementing responsive layouts,
-            and ensuring high performance and code quality.
-            Collaborate closely with backend and product teams, participate in code reviews,
-            technical discussions, and follow best practices in Front End architecture.
+            Developing scalable and high-performance web applications using React.js, TypeScript and TailwindCSS.
+            Building reusable and maintainable UI components following modern Front End architecture principles.
+            Collaborating with backend, product and UX teams in an agile (SCRUM) environment.
+            Participating in code reviews, technical discussions and continuous improvement initiatives.
+            Ensuring responsive, accessible and cross-browser compatible user interfaces.
 
-        - role: Senior Front End Developer Vue.js (Remotely)
+        - role: Senior Front End Engineer (Vue.js)
           time: Sep 2024 - Oct 2025
-          company: Grupo Traxion – Kompas Project
+          company: Grupo Traxion – Kompas Project | Remote
           details: |
-            Worked as a Senior Front End Developer on the Kompas project for Grupo Traxion,
-            building and maintaining scalable web applications using Vue.js 3, Composition API and TypeScript.
-            Developed reusable and high-performance UI components following best practices
-            and modern Front End architecture.
-            Implemented responsive and accessible interfaces using TailwindCSS.
-            Actively participated in technical decision-making, code reviews, task estimation,
-            and mentoring junior and mid-level developers.
-            Collaborated closely with backend and product teams under agile methodologies (SCRUM).
-            
-        - role: Front End Reactjs Developer (Remotely)
-          time: Jan 2023 - July 2024
-          company: UNA Health - 4Site Technologies
-          details: |
-            My role in this job was to develop an app from scratch with ReactJS, hooks and context API, TypeScript, JavaScript, tailwindcss, react query (TanStack Query) and integration with the backend. 
-            The application was adapted to different mobile devices and the development was faithful to the design received. 
-            In the other project I was leader of the Front End team where I was in charge of assigning and estimating tasks, raising new features, code review, merge pull requests as well as developing new requirements.
-            
-        - role: Front End Developer (Remotely)
-          time: Sep 2020 - Nov 2022
-          company: Lean Tech
-          details: |
-            I worked on multiple Reactjs projects applying Tailwind, React Router, CSSS, HTML, Javascript and TypeScript. 
-            In one of the projects I was leading the Front End team, with assignments and estimation of tasks, reviewing the code and uploading the PRs to STG.
-        
-        - role: Front End Developer (Remotely)
-          time: Sep 2019 - Sep 2020
-          company: Soluntech
-          details: |
-            Built websites and web apps using React Js, Redux, Formik, CSSS, HTML, Javascript, Bootstrap.
-            Turn Sketch designs into pixel perfect, mobile responsive website/web pages
-            
-        - role: Front End Developer (Remotely)
-          time: Dec 2015 - Sep 2019
-          company: Barista Ventures
-          details: |
-            Built websites and web apps using CSS, HTML, Javascript, AngularJs, Bootstrap. 
-            Turn Sketch designs into pixel perfect, mobile responsive website/web pages.
+            Worked as a Senior Front End Engineer on the Kompas platform using Vue.js 3, Composition API and TypeScript.
+            Designed and implemented scalable, component-based architectures.
+            Developed responsive and accessible user interfaces using TailwindCSS.
+            Led code reviews, contributed to technical decisions, task estimation and mentoring developers.
+            Collaborated closely with cross-functional teams following agile methodologies (SCRUM).
 
-        - role: Front End Developer
+        - role: Front End Engineer (React.js)
+          time: Jan 2023 - Jul 2024
+          company: UNA Health - 4Site Technologies | Remote
+          details: |
+            Developed a production web application from scratch using React.js, TypeScript, TailwindCSS and React Query.
+            Implemented responsive designs aligned with Figma specifications.
+            Integrated Front End applications with REST APIs.
+            Led Front End initiatives including task estimation, feature planning and pull request reviews.
+
+        - role: Front End Engineer
+          time: Sep 2020 - Nov 2022
+          company: Lean Tech | Remote
+          details: |
+            Worked on multiple React.js projects using TailwindCSS, React Router, HTML, CSS and TypeScript.
+            Led Front End efforts on selected projects, including task estimation, code reviews and PR management.
+
+        - role: Front End Engineer
+          time: Sep 2019 - Sep 2020
+          company: Soluntech | Remote
+          details: |
+            Built web applications using React.js, Redux, Formik, HTML, CSS, JavaScript and Bootstrap.
+            Converted Sketch designs into pixel-perfect, mobile-responsive interfaces.
+
+        - role: Front End Engineer
+          time: Dec 2015 - Sep 2019
+          company: Barista Ventures | Remote
+          details: |
+            Built websites and web applications using HTML, CSS, JavaScript, AngularJS and Bootstrap.
+            Delivered responsive and pixel-perfect user interfaces based on design specifications.
+
+        - role: Front End Engineer
           time: Mar 2011 - Nov 2015
           company: Koombea
           details: |
-            Build websites and web apps using CSS, HTML, Jquery, Javascript, AngularJs, Foundation etc, 
-            using agile methodologies like SCRUM.
+            Built websites and web applications using HTML, CSS, JavaScript, jQuery, AngularJS and Foundation.
+            Worked under agile methodologies such as SCRUM.
 
 projects:
     title: Projects
@@ -123,64 +116,46 @@ projects:
     assignments:
       - title: Project44
         link: "https://www.project44.com"
-        tagline: "Web app built with React Js, ReactQuery, react-hook-form and Material UI"
+        tagline: "Web application built with React.js, React Query, react-hook-form and Material UI"
         
       - title: MedAnswers
         link: "https://www.medanswers.com/"
-        tagline: "A responsive website and web app to make question about infertility. Web app built with React"
+        tagline: "Responsive website and web application focused on infertility Q&A, built with React.js"
         
       - title: Tributi
         link: "http://www.tributi.com"
-        tagline: "A responsive website and web app to make income statement in Colombia. Web app built with React"
+        tagline: "Responsive website and web application for income tax filing in Colombia, built with React.js"
         
       - title: Lenspire
         link: "https://www.lenspire.com"
-        tagline: "Collaborative platform for production professionals in the Print, Media, Fashion, 
-        Advertising and Film Industries. Web app built with AngujarJs"
+        tagline: "Collaborative platform for professionals in Print, Media, Fashion, Advertising and Film industries. Built with AngularJS"
 
       - title: Gran Isla
         link: "https://www.granisla.com"
-        tagline: "A responsive website"
+        tagline: "Responsive website"
 
       - title: Agroturismo Sesvistes
         link: "https://www.agroturismosesvistes.com"
-        tagline: "A responsive website"
+        tagline: "Responsive website"
 
       - title: Green Army
         link: "http://www.greenarmy.com"
-        tagline: "A responsive WordPress site, built with DIVI"
+        tagline: "Responsive WordPress site built with DIVI"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
-    toolset:  
-      - name: React Js
-
-      - name: Vue Js
-        
-      - name: React Query
-      
-      - name: Javascript & jQuery
-      
-      - name: TypeScript
-        
-      - name: TailwindCSS
-
-      - name: HTML5 & CSS3
-
-      - name: Github, GitLab, BitBucket, Jira, Trello. Slack
-        
-      - name: Materializecss, Foundation, Bootstrap, Material-UI
-        
-      - name: Ruby Front End part (helpers)
-        
+    toolset:
+      - name: React.js, Vue.js
+      - name: TypeScript, JavaScript (ES6+)
+      - name: TailwindCSS, CSS3, HTML5
+      - name: Vue 3, Composition API, Pinia, Vue Router
+      - name: React Query (TanStack), Context API, Redux
+      - name: REST APIs, JSON
+      - name: Git, GitHub, GitLab, Bitbucket
+      - name: Agile Methodologies (SCRUM, Kanban)
+      - name: Responsive & Accessible Web Design
       - name: Figma, Sketch, Adobe XD
 
-      - name: Agile Methodologies Scrum Kanban
-        
-      - name: Responsive Web Design
-        
-      
-
 footer: >
-    Copyright © 2025
+    Copyright © 2026
