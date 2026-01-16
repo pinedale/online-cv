@@ -56,6 +56,30 @@ experiences:
     title: Experiences
 
     experiences:
+        - role: Senior Front End Developer React.js (Remotely)
+          time: Aug 2025 - Present
+          company: [Company Name]
+          details: |
+            Currently working as a Senior Front End Developer building modern and scalable web applications
+            using React.js, TypeScript and TailwindCSS.
+            Responsible for developing reusable UI components, implementing responsive layouts,
+            and ensuring high performance and code quality.
+            Collaborate closely with backend and product teams, participate in code reviews,
+            technical discussions, and follow best practices in Front End architecture.
+
+        - role: Senior Front End Developer Vue.js (Remotely)
+          time: Sep 2024 - Oct 2025
+          company: Grupo Traxion – Kompas Project
+          details: |
+            Worked as a Senior Front End Developer on the Kompas project for Grupo Traxion,
+            building and maintaining scalable web applications using Vue.js 3, Composition API and TypeScript.
+            Developed reusable and high-performance UI components following best practices
+            and modern Front End architecture.
+            Implemented responsive and accessible interfaces using TailwindCSS.
+            Actively participated in technical decision-making, code reviews, task estimation,
+            and mentoring junior and mid-level developers.
+            Collaborated closely with backend and product teams under agile methodologies (SCRUM).
+            
         - role: Front End Reactjs Developer (Remotely)
           time: Jan 2023 - July 2024
           company: UNA Health - 4Site Technologies
@@ -131,6 +155,8 @@ skills:
 
     toolset:  
       - name: React Js
+
+      - name: Vue Js
         
       - name: React Query
       
@@ -157,4 +183,4 @@ skills:
       
 
 footer: >
-    Copyright © 2024
+    Copyright © 2025
